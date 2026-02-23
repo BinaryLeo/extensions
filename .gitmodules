@@ -3090,6 +3090,10 @@
 	path = extensions/sharp-solarized-theme
 	url = https://github.com/leodiegues/sharp-solarized-zed-theme.git
 
+[submodule "extensions/shizukajapan-theme"]
+	path = extensions/shizukajapan-theme
+	url = https://github.com/BinaryLeo/Shizuka_japan.git
+
 [submodule "extensions/short-giraffe-theme"]
 	path = extensions/short-giraffe-theme
 	url = https://github.com/Mehdi-Hp/Short-Giraffe.git
@@ -4013,6 +4017,3 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
-[submodule "extensions/shizukajapan-theme"]
-	path = extensions/shizukajapan-theme
-	url = https://github.com/BinaryLeo/Shizuka_japan.git
